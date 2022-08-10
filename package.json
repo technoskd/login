@@ -1,0 +1,26 @@
+{
+  "name": "login",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "express-useragent": "^1.0.15",
+    "joi": "^17.6.0",
+    "md5": "^2.3.0",
+    "mysql2": "^2.3.3",
+    "nodemailer": "^6.7.5",
+    "nodemon": "^2.0.18",
+    "sequelize": "^6.21.2",
+    "smartapi-javascript": "^1.0.14",
+    "socket.io": "^4.5.1",
+    "soket.io": "^0.0.1-security",
+    "stock-nse-india": "^1.1.1",
+    "user-agent": "^1.0.4",
+    "user-agents": "^1.0.1062"
+  }
+}
